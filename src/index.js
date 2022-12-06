@@ -72,4 +72,4 @@ function createCountryInfo(countries) {
 function cleanHtml() {
   countryList.innerHTML = '';
   countryInfo.innerHTML = '';
-}
+};
